@@ -67,7 +67,7 @@ en:
   BUTTON_BUILD: Build
 
   # Labels, descriptive
-  LABEL_LOSE: You lose
+  LABEL_LOSE: Game Over
   LABEL_MINIGAME_CRACK_DESCRIPTION: |
     To crack the game, you must decompile the binary code using the buttons at the bottom of the screen.
   LABEL_CANNOT_OPEN_FILE: Cannot open file
